@@ -3,6 +3,7 @@
 This plugin makes various changes to WordPress and is intended to be used as a base plugin installed on sites in order to set various default behaviors of WordPress
 
 *Features*
+
 * Moves JavaScript to footer
 * Removes unnecessary header `<link>` tags
 * Removes RSS feed links except for primary feed
